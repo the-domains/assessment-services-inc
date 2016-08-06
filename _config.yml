@@ -1,26 +1,26 @@
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-    permalink:
-      path: '/:title/'
-typography_spectrum: 0.7712067
 color:
   saturation: 1
   brandStrength: 0.4880525
-  lightness: 0.6804062
+  rhythmicContrast: 0
   brandColors:
     - '#FFFFFF'
     - '#BEAB65'
     - '#4F2600'
     - '#9C884A'
     - '#B94A00'
-  rhythmicContrast: 0
+  lightness: 0.6804062
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 layout_spectrum: 0.7317801
+typography_spectrum: 0.7712067
 name: 'Assessment Services, Inc'
