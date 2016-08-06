@@ -1,8 +1,8 @@
 layout_spectrum: 1
-color:
-  saturation: 0.5561529
-  brandStrength: 1
-  lightness: 0.5477897
-  rhythmicContrast: 0
 typography_spectrum: 0.7712067
+color:
+  saturation: 1
+  lightness: 1
+  brandStrength: 1
+  rhythmicContrast: 1
 name: 'Assessment Services, Inc'
