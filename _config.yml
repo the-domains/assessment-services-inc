@@ -10,17 +10,17 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.7712067
 color:
   saturation: 1
   brandStrength: 0.4880525
   lightness: 1
   brandColors:
     - '#FFFFFF'
-    - '#B48A00'
-    - '#9D2527'
-    - '#1D308C'
-    - '#110504'
+    - '#AC2623'
+    - '#B29724'
+    - '#7E0E08'
+    - '#9A5B03'
   rhythmicContrast: 1
+typography_spectrum: 0.7712067
 layout_spectrum: 0.7317801
 name: 'Assessment Services, Inc'
