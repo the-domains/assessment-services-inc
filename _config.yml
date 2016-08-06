@@ -4,12 +4,12 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 typography_spectrum: 0.7712067
 color:
   saturation: 1
@@ -17,10 +17,10 @@ color:
   lightness: 1
   brandColors:
     - '#FFFFFF'
-    - '#BEAB65'
-    - '#4F2600'
-    - '#9C884A'
-    - '#B94A00'
+    - '#B48A00'
+    - '#9D2527'
+    - '#1D308C'
+    - '#110504'
   rhythmicContrast: 1
 layout_spectrum: 0.7317801
 name: 'Assessment Services, Inc'
