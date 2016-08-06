@@ -10,17 +10,17 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+typography_spectrum: 0.7712067
 color:
   saturation: 1
   brandStrength: 0.4880525
   lightness: 0.6804062
   brandColors:
     - '#FFFFFF'
-    - '#86B9EE'
-    - '#6D9FD1'
-    - '#5580AB'
-    - '#2B4D86'
+    - '#BEAB65'
+    - '#4F2600'
+    - '#9C884A'
+    - '#B94A00'
   rhythmicContrast: 0
-typography_spectrum: 0.7712067
 layout_spectrum: 0.7317801
 name: 'Assessment Services, Inc'
