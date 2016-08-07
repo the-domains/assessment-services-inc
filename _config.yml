@@ -20,6 +20,9 @@ navigation:
   - name: About Us
     url: 'http://www.assessmentservices-edu.com/about-us.aspx'
     type: external
+  - name: Product Safety
+    url: 'http://www.assessmentservices-edu.com/product-safety.aspx'
+    type: external
 collections:
   - index:
       path: /
