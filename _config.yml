@@ -1,15 +1,3 @@
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
 typography_spectrum: 0.7712067
 color:
   saturation: 1
@@ -23,5 +11,18 @@ color:
     - '#2B4D86'
   rhythmicContrast: 1
 layout_spectrum: 0.7317801
-name: 'Assessment Services, Inc'
+name: 'Assessment Services, Inc.'
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+title: 'Assessment Services, Inc.'
 description: '"helping students and teachers excel"'
