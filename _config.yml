@@ -11,6 +11,10 @@ color:
     - '#2B4D86'
   rhythmicContrast: 1
 layout_spectrum: 0.7317801
+author:
+  name: Grant Gardner
+  email: grantmgardner@msn.com
+  url: www.AssessmentServices-edu.com
 name: 'Assessment Services, Inc.'
 collections:
   - index:
