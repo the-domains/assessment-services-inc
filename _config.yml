@@ -16,6 +16,10 @@ author:
   email: grantmgardner@msn.com
   url: www.AssessmentServices-edu.com
 name: 'Assessment Services, Inc.'
+navigation:
+  - name: About Us
+    url: 'http://www.assessmentservices-edu.com/about-us.aspx'
+    type: external
 collections:
   - index:
       path: /
